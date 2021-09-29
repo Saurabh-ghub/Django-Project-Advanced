@@ -4,6 +4,9 @@ from django.contrib.auth.models import User
 
 # Create your models here.
 
+# you have to run -> python manage.py makemigraations
+#then python manage.py migrate
+
 class Notes(models.Model):
     user = models.ForeignKey(User, on_delete= models.CASCADE)
     title = models.CharField(max_length=200)
