@@ -14,3 +14,6 @@ class Notes(models.Model):
     title = models.CharField(max_length=200)
     description = models.TextField()
 
+    def __str__(self):   #this will show the name of note as its title
+        return self.title
+
