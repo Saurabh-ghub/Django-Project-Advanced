@@ -27,14 +27,16 @@
 
 ## Creating and starting project in Django
 >
+> ``` django-admin startproject studentstudyportal ```
 >
+>``` $ cd studentstudyportal ```
 >
+>Run the server
 >
+>```$ python manage.py runserver ```
 >
->
->
->
->
+>Go to the browser and hit 
+>localhost:8000
 >
 >
 >
