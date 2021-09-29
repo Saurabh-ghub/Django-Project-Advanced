@@ -10,3 +10,34 @@
 > 2. Creating virtual environment named "django"
 >
 > ``` $ mkvirtualenv django ```
+>
+>3. Installing Django
+>  First check what are the packeges installed under pip
+> ``` $ pip list ```
+> Now to install django in our virtual environment do
+>``` $ pip install django ```
+>Check django installed or not
+>``` $ django-admin --version ```
+
+## Creating and starting project in Django
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
