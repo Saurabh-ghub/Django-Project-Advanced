@@ -36,7 +36,8 @@
 >```$ python manage.py runserver ```
 >
 >Go to the browser and hit 
->localhost:8000
+>
+>```localhost:8000 ```
 >
 >
 >
