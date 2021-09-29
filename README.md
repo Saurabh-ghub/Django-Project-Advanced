@@ -6,3 +6,6 @@
 > 1.Installing virtual environment
 > 
 > ``` $ pip install virtualenvwrapper-win   ```
+> 2. Creating virtual environment named "django"
+>
+> ``` $ mkvirtualenv django ```
