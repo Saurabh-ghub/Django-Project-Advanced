@@ -5,4 +5,4 @@
 
 > 1.Installing virtual environment
 > 
-> ``` $ pip install virtualenvwrapper-win   
+> ``` $ pip install virtualenvwrapper-win   ```
