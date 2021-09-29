@@ -1,6 +1,8 @@
 # Django-Project-Advanced
 
-## Initial setups
+## Initial setups for working in Windows
 >
 
-> 1.Creating virtual environment
+> 1.Installing virtual environment
+> 
+> ` $ pip install virtualenvwrapper-win
