@@ -1,4 +1,6 @@
 # Django-Project-Advanced
 
 ** Initial setups
-1.Creating virtual environment
+>
+
+> 1.Creating virtual environment
